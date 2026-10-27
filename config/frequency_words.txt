@@ -1,24 +1,22 @@
 [显卡]
-9070XT
-9070 XT
-RTX 5070
-RTX5070
-显卡 降价
-显卡 促销
+显卡
+GPU
+9070
+5070
+5090
+RTX
+RX 9
 
 [内存]
-DDR5
 内存条
-内存 降价
+DDR5
+DDR4
 
-[AMD生态]
+[AMD]
+AMD
 ROCm
-ROCm 7
-llama.cpp
-AMD 驱动
-HIP
+锐龙
+Radeon
 
 [MOSS]
-MOSS-Image
-MOSS Image
-/moss[- ]?image/i
+MOSS
